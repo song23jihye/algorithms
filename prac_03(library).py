@@ -1,6 +1,2 @@
-arr=[1,2,3]
-result = sum(arr)
-print(result)
-
-m = min(arr)
-print(m)
+arr=[[0 for j in range(4)] for i in range(3)]
+print(arr)
